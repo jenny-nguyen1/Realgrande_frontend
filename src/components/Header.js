@@ -24,7 +24,7 @@ const Header = () => {
         </Link>
       </div>
       <div className="col-sm-5">
-        <p className="m-0 tagline"> Where your dream house awaits!</p>
+        <p className="m-0 tagline"> Your real estate destination!</p>
       </div>
       <div className="col-sm-4">
         {
